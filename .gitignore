@@ -1,0 +1,16 @@
+#borrar dependencias de node js
+node_modules/
+#ARCHIVOS Y CARPETAS DE COMPILACION
+platforms/
+plugins/
+www/
+build/
+
+#archicos del entorno de desarrollo
+.idea/
+.vscode/
+.DS_Store/
+.env/
+
+#Logs y reportes
+*-Logs
